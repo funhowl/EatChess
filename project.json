@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "EatChess",
+  "id": "031f8349-88c2-4eb9-b6af-2b6f2b0c9367",
+  "version": "2.4.0",
+  "isNew": false
+}
